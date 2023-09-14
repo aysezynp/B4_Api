@@ -1,6 +1,5 @@
-package day04;
+package apiTest.day04;
 
-import groovy.json.JsonParser;
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
 import io.restassured.path.json.JsonPath;
@@ -9,7 +8,8 @@ import org.testng.Assert;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.List;
 
 import static io.restassured.RestAssured.baseURI;
 

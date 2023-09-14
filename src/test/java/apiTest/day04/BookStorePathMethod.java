@@ -1,4 +1,4 @@
-package day04;
+package apiTest.day04;
 
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;

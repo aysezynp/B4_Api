@@ -1,4 +1,4 @@
-package apiTest.day3;
+package apiTest.day03;
 import io.restassured.http.ContentType;
 import io.restassured.response.Response;
 import org.testng.annotations.BeforeClass;
